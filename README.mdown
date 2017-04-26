@@ -6,7 +6,7 @@ Derived from the work of Steam0r's [refugee-to-robot](https://github.com/steam0r
 
 ## Installing
 
-Download [refugeetorobot.safariextz](hhttps://github.com/tobiasheim/refugee-to-robot-safari/blob/master/refugeetorobot.safariextz?raw=true)
+Download [refugeetorobot.safariextz](https://github.com/tobiasheim/refugee-to-robot-safari/blob/master/refugeetorobot.safariextz?raw=true)
 
 
 ## Building
